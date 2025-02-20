@@ -1,0 +1,11 @@
+{
+  "report_title": "Hepatitis C Antibody",
+  "test_results": [
+    {
+      "test_name": "Hepatitis C Antibody anti-HCV-IgG",
+      "value": "Negative(-)",
+      "unit": "s/co",
+      "range": "Negative(-)"
+    }
+  ]
+}

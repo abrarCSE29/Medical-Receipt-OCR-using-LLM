@@ -1,0 +1,35 @@
+{
+  "report_title": "Tumor Marker Detection (Chemiluminescence)",
+  "test_results": [
+    {
+      "test_name": "Alpha-fetoprotein AFP",
+      "value": "8.90",
+      "unit": "ng/ml",
+      "range": "0-8"
+    },
+    {
+      "test_name": "Carcinoembryonic antigen CEA",
+      "value": "0.70",
+      "unit": "ng/ml",
+      "range": "0-5"
+    },
+    {
+      "test_name": "Carbohydrate antigen 15-3CA-153",
+      "value": "5.60",
+      "unit": "U/ml",
+      "range": "0-38"
+    },
+    {
+      "test_name": "Carbohydrate antigen-125",
+      "value": "13.00",
+      "unit": "U/ML",
+      "range": "0-35"
+    },
+    {
+      "test_name": "Carbohydrate antigen 19-9",
+      "value": "11.40",
+      "unit": "U/ml",
+      "range": "0-27.22"
+    }
+  ]
+}

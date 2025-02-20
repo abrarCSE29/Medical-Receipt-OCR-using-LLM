@@ -1,0 +1,83 @@
+{
+  "report_title": "Blood Gas Test (including potassium, sodium, and chloride)",
+  "test_results": [
+    {
+      "test_name": "pH",
+      "value": "7.21",
+      "unit": null,
+      "range": "7.35-7.45"
+    },
+    {
+      "test_name": "Partial pressure of carbon dioxide PCO2",
+      "value": "22.00",
+      "unit": "mmHg",
+      "range": "32-48"
+    },
+    {
+      "test_name": "Oxygen partial pressure PO2",
+      "value": "92.00",
+      "unit": "mmHg",
+      "range": "83-108"
+    },
+    {
+      "test_name": "Potassium K",
+      "value": "4.10",
+      "unit": "mmol/L",
+      "range": "3.5-5.3"
+    },
+    {
+      "test_name": "Sodium Na",
+      "value": "130.00",
+      "unit": "mmol/L",
+      "range": "137-147"
+    },
+    {
+      "test_name": "Chloride C1",
+      "value": "108.00",
+      "unit": "mmol/L",
+      "range": "99-110"
+    },
+    {
+      "test_name": "Hemoglobin ctHb",
+      "value": "15.40",
+      "unit": "g/dL",
+      "range": "13-18"
+    },
+    {
+      "test_name": "Bicarbonate HCO3-",
+      "value": "6.10",
+      "unit": "mmol/L",
+      "range": "21.4-27.3"
+    },
+    {
+      "test_name": "Buffer base BB",
+      "value": "27.40",
+      "unit": "mmol/L",
+      "range": "46-50"
+    },
+    {
+      "test_name": "Oxygen saturation O2sat",
+      "value": "96.00",
+      "unit": "%",
+      "range": "91.9-99"
+    },
+    {
+      "test_name": "Actual base excess ABE",
+      "value": "-21.30",
+      "unit": "mmol/L",
+      "range": "-3-3"
+    },
+    {
+      "test_name": "Standard base excess SBE",
+      "value": "-23.00",
+      "unit": "mmol/L",
+      "range": "-3-3"
+    },
+    {
+      "test_name": "Carbon dioxide binding capacity CO2",
+      "value": "6.60",
+      "unit": "mmol/L",
+      "range": "20-29"
+    }
+  ]
+}

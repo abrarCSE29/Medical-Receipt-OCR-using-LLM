@@ -1,0 +1,11 @@
+{
+  "report_title": "Parathyroid Hormone Determination",
+  "test_results": [
+    {
+      "test_name": "Parathyroid Hormone Determination",
+      "value": "3",
+      "unit": "pg/ml",
+      "range": "15-65"
+    }
+  ]
+}

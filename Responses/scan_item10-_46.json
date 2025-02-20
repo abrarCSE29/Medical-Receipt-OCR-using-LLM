@@ -1,0 +1,11 @@
+{
+  "report_title": "Serum Amylase",
+  "test_results": [
+    {
+      "test_name": "Serum Amylase AMYL",
+      "value": "962.00",
+      "unit": "U/L",
+      "range": "<200"
+    }
+  ]
+}

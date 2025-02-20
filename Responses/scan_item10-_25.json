@@ -1,0 +1,29 @@
+{
+  "report_title": "Routine Report",
+  "test_results": [
+    {
+      "test_name": "Color",
+      "value": "Brown",
+      "unit": null,
+      "range": "Yellow-brown"
+    },
+    {
+      "test_name": "Consistency",
+      "value": "Soft stool",
+      "unit": null,
+      "range": "Formed soft stool"
+    },
+    {
+      "test_name": "Occult blood",
+      "value": "Negative (-)",
+      "unit": null,
+      "range": "Negative (-)"
+    },
+    {
+      "test_name": "Microscopic examination",
+      "value": "No abnormality detected",
+      "unit": null,
+      "range": null
+    }
+  ]
+}

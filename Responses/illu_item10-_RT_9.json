@@ -1,0 +1,29 @@
+{
+  "report_title": "Hepatitis C Antibody & Human Immunodeficiency Virus Antibody Test & Treponema Pallidum Special",
+  "test_results": [
+    {
+      "test_name": "Hepatitis C Antibody anti-HCV-IgG",
+      "value": "Negative (-)",
+      "unit": "s/co",
+      "range": "Negative (-)"
+    },
+    {
+      "test_name": "AIDS Virus Antibody HIV (1+2) Antibody",
+      "value": "Negative (-)",
+      "unit": "s/co",
+      "range": "Negative (-)"
+    },
+    {
+      "test_name": "Treponema pallidum antibody Anti-TP",
+      "value": "Negative (-)",
+      "unit": "s/co",
+      "range": "Negative (-)"
+    },
+    {
+      "test_name": "Syphilis Rapid Plasma Reagin RPR",
+      "value": "Negative (-)",
+      "unit": null,
+      "range": "Negative (-)"
+    }
+  ]
+}

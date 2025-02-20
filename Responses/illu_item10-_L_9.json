@@ -1,0 +1,35 @@
+{
+  "report_title": "Myocardial Marker Determination",
+  "test_results": [
+    {
+      "test_name": "Creatine Kinase CK",
+      "value": "1419.00",
+      "unit": "U/L",
+      "range": "25-200"
+    },
+    {
+      "test_name": "Aspartate Aminotransferase AST",
+      "value": "40.59",
+      "unit": "U/L",
+      "range": "13-35"
+    },
+    {
+      "test_name": "Creatine Kinase Isoenzyme CKMB",
+      "value": "50.72",
+      "unit": "U/L",
+      "range": "0-25"
+    },
+    {
+      "test_name": "Lactate Dehydrogenase LDH",
+      "value": "181.08",
+      "unit": "U/L",
+      "range": "109-245"
+    },
+    {
+      "test_name": "Myohemoglobin",
+      "value": "298.10",
+      "unit": null,
+      "range": "7-76"
+    }
+  ]
+}

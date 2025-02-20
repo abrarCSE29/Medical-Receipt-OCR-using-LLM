@@ -1,0 +1,23 @@
+{
+  "report_title": "D-dimer Test Report",
+  "test_results": [
+    {
+      "test_name": "D-dimer (sysmex) DDi",
+      "value": "466.00",
+      "unit": "ug/L",
+      "range": "0-550"
+    },
+    {
+      "test_name": "Plasma fibrinogen (original) degradation product FDP",
+      "value": "1.35",
+      "unit": "ug/ml",
+      "range": "0-5"
+    },
+    {
+      "test_name": "Antithrombin III activity determination",
+      "value": "106.40",
+      "unit": "%",
+      "range": "81.5-121.3"
+    }
+  ]
+}

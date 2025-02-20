@@ -1,0 +1,41 @@
+{
+  "report_title": "Thyroid Function Test (Chemiluminescence)",
+  "test_results": [
+    {
+      "test_name": "Triiodothyronine T3",
+      "value": "0.37",
+      "unit": "ng/ml",
+      "range": "0.61-1.81"
+    },
+    {
+      "test_name": "Thyroxine T4",
+      "value": "43.00",
+      "unit": "ng/ml",
+      "range": "45-109"
+    },
+    {
+      "test_name": "Free Triiodothyronine FT3",
+      "value": "1.56",
+      "unit": "pg/ml",
+      "range": "2.3-4.2"
+    },
+    {
+      "test_name": "Free Thyroxine FT4",
+      "value": "1.02",
+      "unit": "ng/dl",
+      "range": "0.89-1.76"
+    },
+    {
+      "test_name": "Thyroid Stimulating Hormone TSH3",
+      "value": "4.70",
+      "unit": "uIU/ml",
+      "range": "0.35-5.5"
+    },
+    {
+      "test_name": "Anti-thyroglobulin antibody ATG-Ab",
+      "value": "28.90",
+      "unit": "U/ml",
+      "range": "0-60"
+    }
+  ]
+}

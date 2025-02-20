@@ -1,0 +1,17 @@
+{
+  "report_title": "Blood creatinine and blood urea nitrogen determination",
+  "test_results": [
+    {
+      "test_name": "Urea Nitrogen UREA",
+      "value": "11.12",
+      "unit": "mmol/L",
+      "range": "2.86-7.14"
+    },
+    {
+      "test_name": "Blood creatinine CREA",
+      "value": "1235.30",
+      "unit": "umol/L",
+      "range": "62-115"
+    }
+  ]
+}

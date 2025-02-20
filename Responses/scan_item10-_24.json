@@ -1,0 +1,29 @@
+{
+  "report_title": "Routine stool test report",
+  "test_results": [
+    {
+      "test_name": "Color",
+      "value": "Yellow-brown",
+      "unit": null,
+      "range": "Yellow-brown"
+    },
+    {
+      "test_name": "Traits",
+      "value": "Soft stool",
+      "unit": null,
+      "range": "Formed soft stool"
+    },
+    {
+      "test_name": "Fecal occult blood",
+      "value": "Negative (-)",
+      "unit": null,
+      "range": "Negative (-)"
+    },
+    {
+      "test_name": "Microscopic examination",
+      "value": "No abnormality detected",
+      "unit": null,
+      "range": null
+    }
+  ]
+}

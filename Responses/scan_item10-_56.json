@@ -1,0 +1,59 @@
+{
+  "report_title": "Blood Gas Test (including potassium, sodium, and chloride)",
+  "test_results": [
+    {
+      "test_name": "Acidity pH",
+      "value": "7.50",
+      "unit": null,
+      "range": "7.35-7.45"
+    },
+    {
+      "test_name": "Carbon dioxide partial pressure PCO2",
+      "value": "27.00",
+      "unit": "mmHg",
+      "range": "32-48"
+    },
+    {
+      "test_name": "Oxygen partial pressure PO2",
+      "value": "70.90",
+      "unit": "mmHg",
+      "range": "83-108"
+    },
+    {
+      "test_name": "Chloride C1-",
+      "value": "98.30",
+      "unit": "mmol/L",
+      "range": "99-110"
+    },
+    {
+      "test_name": "Bicarbonate HCO3-",
+      "value": "23.90",
+      "unit": "mmol/L",
+      "range": "21.4-27.3"
+    },
+    {
+      "test_name": "Buffer base BB",
+      "value": "48.70",
+      "unit": "mmol/L",
+      "range": "46-50"
+    },
+    {
+      "test_name": "Oxygen saturation O2sat",
+      "value": "96.40",
+      "unit": "%",
+      "range": "91.9-99"
+    },
+    {
+      "test_name": "Potassium K+",
+      "value": "3.27",
+      "unit": "mmol/L",
+      "range": "3.5-5.3"
+    },
+    {
+      "test_name": "Sodium Na+",
+      "value": "141.60",
+      "unit": "mmol/L",
+      "range": "137-147"
+    }
+  ]
+}

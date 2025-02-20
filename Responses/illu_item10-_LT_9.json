@@ -1,0 +1,41 @@
+{
+  "report_title": "Hepatitis B Five Items Quantitative + Hepatitis B pre-S1",
+  "test_results": [
+    {
+      "test_name": "Hepatitis B virus pre-S1 antigen HBV",
+      "value": "Negative (-)",
+      "unit": "s/co",
+      "range": "Negative (-)"
+    },
+    {
+      "test_name": "Hepatitis B surface antigen HBsAg",
+      "value": "0.000",
+      "unit": "ng/L",
+      "range": "0-0.2"
+    },
+    {
+      "test_name": "Hepatitis B surface antibody Anti-HBsAB",
+      "value": "32.703",
+      "unit": "MIU/mL",
+      "range": "0-10"
+    },
+    {
+      "test_name": "Hepatitis B e antigen HBeAg",
+      "value": "0.000",
+      "unit": "U/mL",
+      "range": "0-0.5"
+    },
+    {
+      "test_name": "Hepatitis B e antibody Anti-HBeAB",
+      "value": "0.096",
+      "unit": "U/mL",
+      "range": "0-0.2"
+    },
+    {
+      "test_name": "Hepatitis B core antibody Anti-HBcAB",
+      "value": "1.869",
+      "unit": "U/mL",
+      "range": "0-0.9"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "report_title": "Thyroid Hormone Determination Report",
+  "test_results": [
+    {
+      "test_name": "Thyroid Hormone Determination",
+      "value": "29",
+      "unit": "pg/ml",
+      "range": "15-65"
+    }
+  ]
+}

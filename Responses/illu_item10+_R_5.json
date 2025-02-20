@@ -1,0 +1,149 @@
+{
+  "report_title": "Blood Cell Analysis Five Categories",
+  "test_results": [
+    {
+      "test_name": "White Blood Cell Count WBC",
+      "value": "7.94",
+      "unit": "10^9/L",
+      "range": "3.5-9.5"
+    },
+    {
+      "test_name": "Red Blood Cell Count RBC",
+      "value": "4.74",
+      "unit": "×10^12/L",
+      "range": "4.3-5.8"
+    },
+    {
+      "test_name": "Hemoglobin HGB",
+      "value": "148",
+      "unit": "g/L",
+      "range": "130-175"
+    },
+    {
+      "test_name": "Hematocrit HCT",
+      "value": "42.5",
+      "unit": "%",
+      "range": "40-50"
+    },
+    {
+      "test_name": "Mean Corpuscular Volume MCV",
+      "value": "89.7",
+      "unit": "fL",
+      "range": "82-100"
+    },
+    {
+      "test_name": "Mean Corpuscular Hemoglobin MCH",
+      "value": "31.3",
+      "unit": "pg",
+      "range": "27-34"
+    },
+    {
+      "test_name": "Mean Corpuscular Hemoglobin Concentration MCHC",
+      "value": "349",
+      "unit": "g/L",
+      "range": "316-354"
+    },
+    {
+      "test_name": "Platelet PLT",
+      "value": "162",
+      "unit": "×10^9/L",
+      "range": "125-350"
+    },
+    {
+      "test_name": "Red Blood Cell Distribution Width Standard Deviation RDW-SD",
+      "value": "38.5",
+      "unit": "fL",
+      "range": "30-54"
+    },
+    {
+      "test_name": "Red Blood Cell Distribution Width Coefficient of Variation RDW-C",
+      "value": "12.1",
+      "unit": "%",
+      "range": "0-14.1"
+    },
+    {
+      "test_name": "Platelet Volume Distribution Width PDW",
+      "value": "16.3",
+      "unit": "fL",
+      "range": "9-17"
+    },
+    {
+      "test_name": "Mean Platelet Volume MPV",
+      "value": "10.1",
+      "unit": "fL",
+      "range": "9-13"
+    },
+    {
+      "test_name": "Large Platelet Ratio P-LCR",
+      "value": "26.8",
+      "unit": "%",
+      "range": "17.5-30"
+    },
+    {
+      "test_name": "Plateletcrit PCT",
+      "value": "0.16",
+      "unit": "%",
+      "range": "0.13-0.35"
+    },
+    {
+      "test_name": "Absolute Neutrophil Count NEUT#",
+      "value": "6.18",
+      "unit": "×10^9/L",
+      "range": "1.8-6.3"
+    },
+    {
+      "test_name": "Absolute Lymphocyte Count LYMPH#",
+      "value": "1.22",
+      "unit": "×10^9/L",
+      "range": "1.1-3.2"
+    },
+    {
+      "test_name": "Absolute Monocyte Count MONO#",
+      "value": "0.47",
+      "unit": "×10^9/L",
+      "range": "0.1-0.6"
+    },
+    {
+      "test_name": "Absolute Eosinophil Count EO#",
+      "value": "0.05",
+      "unit": "×10^9/L",
+      "range": "0.02-0.52"
+    },
+    {
+      "test_name": "Absolute Basophil Count BASO#",
+      "value": "0.02",
+      "unit": "×10^9/L",
+      "range": "0-0.06"
+    },
+    {
+      "test_name": "Neutrophil Percentage NEUT%",
+      "value": "78.0",
+      "unit": "%",
+      "range": "40-75"
+    },
+    {
+      "test_name": "Lymphocyte Percentage LYMPH%",
+      "value": "15.3",
+      "unit": "%",
+      "range": "20-50"
+    },
+    {
+      "test_name": "Monocyte Percentage MONO%",
+      "value": "5.9",
+      "unit": "%",
+      "range": "3-10"
+    },
+    {
+      "test_name": "Eosinophil Percentage EO%",
+      "value": "0.6",
+      "unit": "%",
+      "range": "0.4-8"
+    },
+    {
+      "test_name": "Basophil Percentage BASO%",
+      "value": "0.2",
+      "unit": "%",
+      "range": "0-1"
+    }
+  ]
+}

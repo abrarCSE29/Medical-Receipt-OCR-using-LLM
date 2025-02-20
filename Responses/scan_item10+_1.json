@@ -1,0 +1,83 @@
+{
+  "report_title": "Kidney Function Test",
+  "test_results": [
+    {
+      "test_name": "Total Protein Tp",
+      "value": "84.75",
+      "unit": "g/L",
+      "range": "60-80"
+    },
+    {
+      "test_name": "Albumin ALB",
+      "value": "47.31",
+      "unit": "g/L",
+      "range": "35-60"
+    },
+    {
+      "test_name": "Globulin G",
+      "value": "37.44",
+      "unit": "g/L",
+      "range": "23-35"
+    },
+    {
+      "test_name": "A/G Ratio",
+      "value": "1.26",
+      "unit": null,
+      "range": "1.1-2.5"
+    },
+    {
+      "test_name": "Urea Nitrogen UREA",
+      "value": "11.40",
+      "unit": "mmol/L",
+      "range": "2.86-7.14"
+    },
+    {
+      "test_name": "Uric Acid UUA",
+      "value": "696.98",
+      "unit": "umom/L",
+      "range": "178-410"
+    },
+    {
+      "test_name": "Cystatin C CysC",
+      "value": "0.64",
+      "unit": "mg/L",
+      "range": "0.59-1.25"
+    },
+    {
+      "test_name": "Creatinine CREA",
+      "value": "138.30",
+      "unit": "umol/L",
+      "range": "62-115"
+    },
+    {
+      "test_name": "Total Cholesterol TC",
+      "value": "4.17",
+      "unit": "mmol/L",
+      "range": "3.63-5.98"
+    },
+    {
+      "test_name": "Calcium Ca",
+      "value": "2.47",
+      "unit": "mmol/L",
+      "range": "2.1-2.6"
+    },
+    {
+      "test_name": "Glucose GLU",
+      "value": "20.54",
+      "unit": "mmol/L",
+      "range": "3.9-6.1"
+    },
+    {
+      "test_name": "2-Microglobulin",
+      "value": "0.76",
+      "unit": "mg/L",
+      "range": "0.97-2.64"
+    },
+    {
+      "test_name": "Serum 1-Microglobulin",
+      "value": "39",
+      "unit": "mg/L",
+      "range": "10-30"
+    }
+  ]
+}

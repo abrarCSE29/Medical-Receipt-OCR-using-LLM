@@ -1,0 +1,65 @@
+{
+  "report_title": "Blood Gas Test (including potassium, sodium, and chloride)",
+  "test_results": [
+    {
+      "test_name": "pH",
+      "value": "7.43",
+      "unit": " ",
+      "range": "7.35-7.45"
+    },
+    {
+      "test_name": "Partial pressure of carbon dioxide PC02",
+      "value": "28.90",
+      "unit": "mmHg",
+      "range": "32-48"
+    },
+    {
+      "test_name": "Oxygen partial pressure PO2",
+      "value": "86.70",
+      "unit": "mmHg",
+      "range": "83-108"
+    },
+    {
+      "test_name": "Chloride C1-",
+      "value": "102.00",
+      "unit": "mmol/L",
+      "range": "99-110"
+    },
+    {
+      "test_name": "Bicarbonate HCO3-",
+      "value": "20.70",
+      "unit": "mmol/L",
+      "range": "21.4-27.3"
+    },
+    {
+      "test_name": "Buffer base BB",
+      "value": "41.50",
+      "unit": "mmol/L",
+      "range": "46-50"
+    },
+    {
+      "test_name": "Oxygen saturation O2sat",
+      "value": "97.50",
+      "unit": "%",
+      "range": "91.9-99"
+    },
+    {
+      "test_name": "Potassium K+",
+      "value": "2.54",
+      "unit": "mmol/L",
+      "range": "3.5-5.3"
+    },
+    {
+      "test_name": "Sodium Na+",
+      "value": "145.80",
+      "unit": "mmol/L",
+      "range": "137-147"
+    },
+    {
+      "test_name": "Lactic acid",
+      "value": "1.6",
+      "unit": "mmol/L",
+      "range": "Adult 0.9-1.7, Newborn 0.5-2.0"
+    }
+  ]
+}

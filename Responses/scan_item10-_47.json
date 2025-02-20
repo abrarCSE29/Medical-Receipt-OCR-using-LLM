@@ -1,0 +1,23 @@
+{
+  "report_title": "Potassium, Sodium, Chloride Report",
+  "test_results": [
+    {
+      "test_name": "Potassium K",
+      "value": "4.72",
+      "unit": "mmol/L",
+      "range": "3.5-5.3"
+    },
+    {
+      "test_name": "Sodium Na",
+      "value": "129.60",
+      "unit": "mmol/L",
+      "range": "137-147"
+    },
+    {
+      "test_name": "Chloride Cl",
+      "value": "107.40",
+      "unit": "mmol/L",
+      "range": "99-110"
+    }
+  ]
+}

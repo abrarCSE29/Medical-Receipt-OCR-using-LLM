@@ -1,0 +1,47 @@
+{
+  "report_title": "Blood Coagulation Test",
+  "test_results": [
+    {
+      "test_name": "Prothrombin Time (PT)",
+      "value": "12.40",
+      "unit": "seconds",
+      "range": "10-14"
+    },
+    {
+      "test_name": "Prothrombin Activity %",
+      "value": "79.50",
+      "unit": "%",
+      "range": "70-130"
+    },
+    {
+      "test_name": "Ratio (PTR)",
+      "value": "1.07",
+      "unit": null,
+      "range": "0.8-1.2"
+    },
+    {
+      "test_name": "International Normalized Ratio (INR)",
+      "value": "1.07",
+      "unit": null,
+      "range": "0.8-1.5"
+    },
+    {
+      "test_name": "Fibrinogen (Fbg)",
+      "value": "4.264",
+      "unit": "g/L",
+      "range": "2-4"
+    },
+    {
+      "test_name": "Activated Partial Thromboplastin Time (APTT)",
+      "value": "42.10",
+      "unit": "seconds",
+      "range": "23-35"
+    },
+    {
+      "test_name": "Thrombin Time (TT)",
+      "value": "17.90",
+      "unit": "seconds",
+      "range": "13-25"
+    }
+  ]
+}

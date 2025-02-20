@@ -1,0 +1,29 @@
+{
+  "report_title": "Blood Type (Transfusion Medicine) Report",
+  "test_results": [
+    {
+      "test_name": "ABO blood type (Microcolumn gel method)",
+      "value": "B type",
+      "unit": null,
+      "range": null
+    },
+    {
+      "test_name": "RH blood type (D) antigen identification",
+      "value": "Positive (+)",
+      "unit": null,
+      "range": null
+    },
+    {
+      "test_name": "RH blood type (C) antigen identification",
+      "value": "Positive (+)",
+      "unit": null,
+      "range": null
+    },
+    {
+      "test_name": "RH blood type (E) antigen identification",
+      "value": "Negative (-)",
+      "unit": null,
+      "range": null
+    }
+  ]
+}

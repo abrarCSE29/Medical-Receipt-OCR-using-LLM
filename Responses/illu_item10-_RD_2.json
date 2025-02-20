@@ -1,0 +1,23 @@
+{
+  "report_title": "Anemia Project Detection (Chemiluminescence)",
+  "test_results": [
+    {
+      "test_name": "Ferritin SF",
+      "value": "618.50",
+      "unit": "ng/ml",
+      "range": "[Male: 12.5-245]@[Female: 5.5-135]"
+    },
+    {
+      "test_name": "Folic Acid Determination",
+      "value": "7.66",
+      "unit": "ng/ml",
+      "range": ">5.31"
+    },
+    {
+      "test_name": "Serum Vitamin B12 Determination",
+      "value": "721.00",
+      "unit": "pg/ml",
+      "range": "211-911"
+    }
+  ]
+}
